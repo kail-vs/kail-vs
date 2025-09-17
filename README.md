@@ -54,8 +54,3 @@ I spend a lot of time thinking and questioning rather than just accepting the de
 </p>  
 
 ---
-
-## Activity & Stats  
-
-![Kailash's GitHub stats](https://github-readme-stats.vercel.app/api?username=kail-vs&show_icons=true&hide_title=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kail-vs&layout=compact)  
